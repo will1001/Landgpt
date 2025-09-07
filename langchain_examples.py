@@ -20,7 +20,17 @@ def basic_llm_example():
     print("Basic LLM Response:", response.content)
     return response.content
 
-# Example 2: Using Prompt Templates
+# Example 2: Using Prompt Templates]
+
+
+
+
+
+
+
+
+
+
 def prompt_template_example():
     """Example using prompt templates for structured input"""
     llm = ChatOpenAI(model="gpt-3.5-turbo")
